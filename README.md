@@ -1,8 +1,21 @@
-# React + Vite
+# Redux Authentication
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This project demonstrates the integration of React and Redux to manage application state and data flow. It showcases the core concepts of Redux, including actions, reducers, store, and selectors, to build a simple to-do list application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+
+Simple to-do list management
+State management using Redux
+Data synchronization between components
+Reusable components and logic
+
+# Requirements
+Node.js (v16.x or higher)
+Yarn or npm
+Installation
+Clone the repository:
+
+# Screenshots
+![Alt text](./redux-authentication "redux practice")
