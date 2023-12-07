@@ -18,4 +18,4 @@ Installation
 Clone the repository:
 
 # Screenshots
-![Alt text](./redux-authentication "redux practice")
+![Alt text](./redux-authentication.png "redux practice")
